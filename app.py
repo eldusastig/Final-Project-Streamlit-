@@ -8,7 +8,6 @@ Original file is located at
 """
  
 
-import tensorflow as tf
 import streamlit as st
 
 @st.cache_resource
